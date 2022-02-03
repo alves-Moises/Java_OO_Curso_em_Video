@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Aula2/src"/>
+	<classpathentry kind="src" path="Aula3/Aula3/src"/>
+	<classpathentry kind="src" path="Aula4/Aula4/src"/>
+	<classpathentry kind="src" path="Aula5/Aula5/src"/>
+	<classpathentry kind="src" path="Aula6/Aula6/src"/>
+	<classpathentry kind="src" path="Aula7/Aula7/src"/>
+	<classpathentry kind="src" path="Helloword_/src"/>
+	<classpathentry kind="lib" path="Aula7/Aula7/dist/Aula7.jar"/>
+	<classpathentry kind="output" path="Aula2/build/classes"/>
+</classpath>

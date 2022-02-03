@@ -18,7 +18,7 @@ public class Lutador {
         
     public void apresentar(){
         System.out.println("Apresentando...");
-        System.out.println("Nome: " + this.getNacionalidade());
+        System.out.println("Nome: " + this.getNome());
         System.out.println("Nacionalidade: " + this.getNacionalidade());
         System.out.println("Idade: " + this.getIdade());
         System.out.println("Peso: " + this.getPeso());
@@ -30,7 +30,8 @@ public class Lutador {
     }
     
     public void status(){
-        System.out.println("Nome: " + this.getNacionalidade());
+        System.out.println("Nome: " + this.getNome());
+        System.out.println("Nacionalidade: " + this.getNacionalidade());
         System.out.println("categoria: " + this.getCategoria());
         System.out.println("Vitórias: " + this.getVitorias());
         System.out.println("Derrotas: " + this.getDerrotas());
